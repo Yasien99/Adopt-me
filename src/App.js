@@ -1,5 +1,4 @@
 import { render } from "react-dom";
-import Pet from "./Pet";
 import { StrictMode } from "react"
 import SearchParams from "./SearchParams";
 
